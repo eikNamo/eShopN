@@ -7,7 +7,9 @@
     <UserSecretsId>231ddc1b-6787-4704-a0c0-18df6a022660</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.0" />
+    <PackageReference Include="OctoPack" Version="3.6.3" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ApplicationCore\ApplicationCore.csproj" />
