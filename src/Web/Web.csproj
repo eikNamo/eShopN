@@ -9,6 +9,7 @@
     <PackageReference Include="Ardalis.GuardClauses" Version="1.2.3" />
     <PackageReference Include="Dapper" Version="1.50.5" />
     <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.6" />
     <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Analyzers" Version="2.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.0" PrivateAssets="All" />
