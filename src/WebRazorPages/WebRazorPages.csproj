@@ -5,6 +5,7 @@
     <AssemblyName>Microsoft.eShopWeb.RazorPages</AssemblyName>
     <DockerTargetOS>Linux</DockerTargetOS>
     <UserSecretsId>231ddc1b-6787-4704-a0c0-18df6a022660</UserSecretsId>
+    <IsPackable>true</IsPackable>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Ardalis.GuardClauses" Version="1.2.3" />
